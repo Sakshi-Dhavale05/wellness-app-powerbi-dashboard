@@ -3,10 +3,6 @@
 ## 📊 Project Overview
 This repository contains a comprehensive, multi-page Power BI dashboard engineered to analyze user engagement and predict churn factors for a modern digital healthcare and wellness application. The project translates raw behavioral telemetry from **1,000 users** into actionable business insights focused on increasing user retention and maximizing subscription tier value.
 
-### 🔗 Live View / Files Included
-* **[View Dashboard File](./Healthcare_Wellness_Dashboard.pbix)**
-* **Dataset Used:** `calm_sleep_CLEANED.csv`
-
 ---
 
 ## 🚀 Key Business Questions Answered
